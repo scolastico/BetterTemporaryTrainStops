@@ -3,7 +3,7 @@
 [![badge](https://img.shields.io/github/languages/code-size/scolastico/BetterTemporaryTrainStops)](#)
 [![badge](https://img.shields.io/github/issues/scolastico/BetterTemporaryTrainStops)](https://github.com/scolastico/BetterTemporaryTrainStops/issues)
 [![Version](https://img.shields.io/github/v/tag/scolastico/BetterTemporaryTrainStops?label=version)](https://github.com/scolastico/BetterTemporaryTrainStops/releases)
-[![Factorio Mod](https://img.shields.io/badge/-Factorio%20Mod-green)](#)
+[![Factorio Mod](https://img.shields.io/badge/-Factorio%20Mod-green)](https://mods.factorio.com/mod/BetterTemporaryTrainStops)
 
 ## Description
 BetterTemporaryTrainStops is a factorio mod. The aim of this mod is a) to change the waiting conditions of temporary stops in trains and b) to provide you with the function of ordering your personal train to the nearest platform. The mod is also focused on being multiplayer friendly.
