@@ -24,8 +24,8 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **System (please complete the following information):**
- - Factorio version: [e.g. iOS]
- - Version of the mod: [e.g. 22]
+ - Factorio version: [e.g. 1.1]
+ - Version of the mod: [e.g. 1.1.0]
  - Other mods installd [e.g. a list of the mods, a zip file of it]
 
 **Additional context**
